@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="7" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10325" started-at="2020-07-25T00:07:20 EDT" finished-at="2020-07-25T00:07:30 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10325" started-at="2020-07-25T00:07:20 EDT" finished-at="2020-07-25T00:07:30 EDT">
+      <class name="Maven.Practise.SpiceJetTest">
+        <test-method status="PASS" signature="spicejet()[pri:0, instance:Maven.Practise.SpiceJetTest@7085bdee]" name="spicejet" duration-ms="1803" started-at="2020-07-25T00:07:26 EDT" finished-at="2020-07-25T00:07:28 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spicejet -->
+      </class> <!-- Maven.Practise.SpiceJetTest -->
+      <class name="Maven.Practise.MakeMyTripTest">
+        <test-method status="PASS" signature="makemytrtip()[pri:0, instance:Maven.Practise.MakeMyTripTest@73ad2d6]" name="makemytrtip" duration-ms="3401" started-at="2020-07-25T00:07:23 EDT" finished-at="2020-07-25T00:07:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- makemytrtip -->
+      </class> <!-- Maven.Practise.MakeMyTripTest -->
+      <class name="Maven.Practise.youTube">
+        <test-method status="PASS" signature="chrome()[pri:0, instance:Maven.Practise.youTube@3fee9989]" name="chrome" is-config="true" duration-ms="4325" started-at="2020-07-25T00:07:15 EDT" finished-at="2020-07-25T00:07:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chrome -->
+        <test-method status="PASS" signature="youtube()[pri:0, instance:Maven.Practise.youTube@3fee9989]" name="youtube" duration-ms="3279" started-at="2020-07-25T00:07:20 EDT" finished-at="2020-07-25T00:07:23 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- youtube -->
+      </class> <!-- Maven.Practise.youTube -->
+      <class name="Maven.Practise.googleTest">
+        <test-method status="PASS" signature="google()[pri:0, instance:Maven.Practise.googleTest@1ce92674]" name="google" duration-ms="1809" started-at="2020-07-25T00:07:28 EDT" finished-at="2020-07-25T00:07:30 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google -->
+      </class> <!-- Maven.Practise.googleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

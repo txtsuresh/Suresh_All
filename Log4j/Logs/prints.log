@@ -1,0 +1,2 @@
+16:23:44.331 [main] ERROR basic_logs.Test1 - Test1 Error displayed
+16:23:44.334 [main] FATAL basic_logs.Test1 - Test1 fatal error

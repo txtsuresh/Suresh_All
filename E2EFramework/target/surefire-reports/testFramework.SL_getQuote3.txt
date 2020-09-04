@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: testFramework.SL_getQuote3
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.143 s - in testFramework.SL_getQuote3

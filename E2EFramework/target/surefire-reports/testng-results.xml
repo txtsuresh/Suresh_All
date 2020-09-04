@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="137170" started-at="2020-07-29T18:22:58 EDT" finished-at="2020-07-29T18:25:15 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="71448" started-at="2020-07-29T18:22:58 EDT" finished-at="2020-07-29T18:24:10 EDT">
+      <class name="testFramework.SL_getQuote">
+        <test-method status="PASS" signature="getquote(java.lang.String, java.lang.String)[pri:0, instance:testFramework.SL_getQuote@3745e5c6]" name="getquote" duration-ms="30242" started-at="2020-07-29T18:22:58 EDT" data-provider="datavalues" finished-at="2020-07-29T18:23:28 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11/01/1989]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getquote -->
+        <test-method status="PASS" signature="getquote(java.lang.String, java.lang.String)[pri:0, instance:testFramework.SL_getQuote@3745e5c6]" name="getquote" duration-ms="33200" started-at="2020-07-29T18:23:29 EDT" data-provider="datavalues" finished-at="2020-07-29T18:24:02 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[05/05/1975]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getquote -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:testFramework.SL_getQuote@3745e5c6]" name="closebrowser" is-config="true" duration-ms="7425" started-at="2020-07-29T18:24:02 EDT" finished-at="2020-07-29T18:24:10 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testFramework.SL_getQuote -->
+    </test> <!-- Test -->
+    <test name="Test2" duration-ms="29714" started-at="2020-07-29T18:24:10 EDT" finished-at="2020-07-29T18:24:40 EDT">
+      <class name="testFramework.SL_getQuote2">
+        <test-method status="PASS" signature="getquote2()[pri:0, instance:testFramework.SL_getQuote2@79ad8b2f]" name="getquote2" duration-ms="21745" started-at="2020-07-29T18:24:10 EDT" finished-at="2020-07-29T18:24:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getquote2 -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:testFramework.SL_getQuote2@79ad8b2f]" name="closebrowser" is-config="true" duration-ms="7700" started-at="2020-07-29T18:24:32 EDT" finished-at="2020-07-29T18:24:40 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testFramework.SL_getQuote2 -->
+    </test> <!-- Test2 -->
+    <test name="Test3" duration-ms="35626" started-at="2020-07-29T18:24:40 EDT" finished-at="2020-07-29T18:25:15 EDT">
+      <class name="testFramework.SL_getQuote3">
+        <test-method status="PASS" signature="browserstart()[pri:0, instance:testFramework.SL_getQuote3@247310d0]" name="browserstart" is-config="true" duration-ms="10055" started-at="2020-07-29T18:24:40 EDT" finished-at="2020-07-29T18:24:50 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserstart -->
+        <test-method status="PASS" signature="getquote3()[pri:0, instance:testFramework.SL_getQuote3@247310d0]" name="getquote3" duration-ms="12744" started-at="2020-07-29T18:24:50 EDT" finished-at="2020-07-29T18:25:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getquote3 -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:testFramework.SL_getQuote3@247310d0]" name="closebrowser" is-config="true" duration-ms="11982" started-at="2020-07-29T18:25:03 EDT" finished-at="2020-07-29T18:25:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testFramework.SL_getQuote3 -->
+    </test> <!-- Test3 -->
+  </suite> <!-- Suite -->
+</testng-results>

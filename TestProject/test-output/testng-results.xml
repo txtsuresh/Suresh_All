@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51" started-at="2020-07-22T16:54:33 EDT" finished-at="2020-07-22T16:54:33 EDT">
+    <groups>
+      <group name="logout">
+        <method signature="SME_Broker.SMEbrokerlogout()[pri:0, instance:testNG_Practise.SME_Broker@5bc79255]" name="SMEbrokerlogout" class="testNG_Practise.SME_Broker"/>
+      </group> <!-- logout -->
+    </groups>
+    <test name="Default test" duration-ms="51" started-at="2020-07-22T16:54:33 EDT" finished-at="2020-07-22T16:54:33 EDT">
+      <class name="testNG_Practise.SME_Broker">
+        <test-method status="PASS" signature="SMEbrokerlogin()[pri:0, instance:testNG_Practise.SME_Broker@5bc79255]" name="SMEbrokerlogin" is-config="true" duration-ms="9" started-at="2020-07-22T16:54:33 EDT" finished-at="2020-07-22T16:54:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SMEbrokerlogin -->
+        <test-method status="PASS" signature="SMEbrokerSIC()[pri:0, instance:testNG_Practise.SME_Broker@5bc79255]" name="SMEbrokerSIC" duration-ms="5" started-at="2020-07-22T16:54:33 EDT" finished-at="2020-07-22T16:54:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SMEbrokerSIC -->
+        <test-method status="PASS" signature="SMEbrokerlogout()[pri:0, instance:testNG_Practise.SME_Broker@5bc79255]" name="SMEbrokerlogout" duration-ms="1" started-at="2020-07-22T16:54:33 EDT" finished-at="2020-07-22T16:54:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SMEbrokerlogout -->
+        <test-method status="PASS" signature="SMEbrokerhomepage()[pri:0, instance:testNG_Practise.SME_Broker@5bc79255]" name="SMEbrokerhomepage" is-config="true" duration-ms="0" started-at="2020-07-22T16:54:33 EDT" finished-at="2020-07-22T16:54:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SMEbrokerhomepage -->
+      </class> <!-- testNG_Practise.SME_Broker -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

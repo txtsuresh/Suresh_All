@@ -1,0 +1,7 @@
+pageOBFramework\GetQuotepage.class
+pageOBFramework\TellYourselfpage.class
+pageOBFramework\coveragePage.class
+pageOBFramework\HealthInfoPage.class
+Repository\extentReport.class
+Repository\ListenerScreenshot.class
+Repository\browser_Invoke.class

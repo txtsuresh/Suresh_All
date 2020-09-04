@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestNG">
+  
+  <test  name="Test">
+    <classes>
+      <class name="testNG_Practise.basic"/>
+       <class name="testNG_Practise.CNS_Broker"/>
+      <class name="testNG_Practise.SME_Broker"/>
+      <class name="testNG_Practise.HUB_Broker"/>
+    </classes>
+  </test> 
+  
+<test name="Execute UW">
+	<classes>
+		<class name="testNG_Practise.CNS_UW">
+			<methods>
+				<exclude name ="CNSUWlogin"/>
+			</methods>
+		</class>
+		<class name="testNG_Practise.HUB_UW">
+			<methods>
+				<exclude name = "HUB.*"/>
+			</methods>
+			</class>
+		<class name="testNG_Practise.SME_UW">
+			<methods>
+				<include name = "SMEUW.*"/>
+			</methods>
+		</class>
+		
+	</classes>
+</test>
+    
+</suite> 

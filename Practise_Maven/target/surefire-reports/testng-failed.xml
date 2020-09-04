@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test thread-count="5" verbose="0" name="Test(failed)">
+    <classes>
+      <class name="Maven.Practise.MakeMyTripTest">
+        <methods>
+          <include name="google"/>
+          <include name="makemytrtip"/>
+          <include name="chrome"/>
+        </methods>
+      </class> <!-- Maven.Practise.MakeMyTripTest -->
+      <class name="Maven.Practise.SpiceJetTest">
+        <methods>
+          <include name="google"/>
+          <include name="chrome"/>
+          <include name="spicejet"/>
+        </methods>
+      </class> <!-- Maven.Practise.SpiceJetTest -->
+      <class name="Maven.Practise.googleTest">
+        <methods>
+          <include name="google"/>
+          <include name="chrome"/>
+        </methods>
+      </class> <!-- Maven.Practise.googleTest -->
+      <class name="Maven.Practise.youTube">
+        <methods>
+          <include name="google"/>
+          <include name="youtube"/>
+          <include name="chrome"/>
+        </methods>
+      </class> <!-- Maven.Practise.youTube -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

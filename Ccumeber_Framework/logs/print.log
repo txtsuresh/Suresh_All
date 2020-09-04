@@ -1,0 +1,37 @@
+20:23:27.639 [main] INFO  stepDefinitions.Homepage - Get Quote button clicked
+20:23:38.890 [main] INFO  stepDefinitions.Homepage - Get Quote button clicked
+20:23:41.142 [main] INFO  stepDefinitions.Homepage - DOB is entered
+20:23:44.234 [main] INFO  stepDefinitions.Homepage - Sex is selected
+20:23:44.324 [main] INFO  stepDefinitions.Homepage - Smoke option is selected
+20:23:44.481 [main] INFO  stepDefinitions.Homepage - Province is selected
+20:23:44.599 [main] ERROR stepDefinitions.Homepage - failed
+20:23:57.116 [main] INFO  stepDefinitions.Homepage - Get Quote button clicked
+20:23:59.215 [main] INFO  stepDefinitions.Homepage - DOB is entered
+20:24:02.312 [main] INFO  stepDefinitions.Homepage - Sex is selected
+20:24:02.427 [main] INFO  stepDefinitions.Homepage - Smoke option is selected
+20:24:02.595 [main] INFO  stepDefinitions.Homepage - Province is selected
+20:24:02.697 [main] ERROR stepDefinitions.Homepage - failed
+20:32:04.683 [main] INFO  stepDefinitions.Homepage - Get Quote button clicked
+20:32:17.366 [main] INFO  stepDefinitions.Homepage - Get Quote button clicked
+20:32:19.657 [main] INFO  stepDefinitions.Homepage - DOB is entered
+20:32:22.760 [main] INFO  stepDefinitions.Homepage - Sex is selected
+20:32:22.902 [main] INFO  stepDefinitions.Homepage - Smoke option is selected
+20:32:23.070 [main] INFO  stepDefinitions.Homepage - Province is selected
+20:32:32.247 [main] INFO  stepDefinitions.Homepage - Get Quote button clicked
+20:32:34.806 [main] INFO  stepDefinitions.Homepage - DOB is entered
+20:34:33.291 [main] INFO  stepDefinitions.Homepage - Get Quote button clicked
+20:34:45.789 [main] INFO  stepDefinitions.Homepage - Get Quote button clicked
+20:34:47.942 [main] INFO  stepDefinitions.Homepage - DOB is entered
+20:34:51.032 [main] INFO  stepDefinitions.Homepage - Sex is selected
+20:34:51.147 [main] INFO  stepDefinitions.Homepage - Smoke option is selected
+20:34:51.321 [main] INFO  stepDefinitions.Homepage - Province is selected
+20:35:01.787 [main] INFO  stepDefinitions.Homepage - Get Quote button clicked
+20:35:03.895 [main] INFO  stepDefinitions.Homepage - DOB is entered
+20:35:07.004 [main] INFO  stepDefinitions.Homepage - Sex is selected
+20:35:07.126 [main] INFO  stepDefinitions.Homepage - Smoke option is selected
+20:35:07.289 [main] INFO  stepDefinitions.Homepage - Province is selected
+20:35:18.992 [main] INFO  stepDefinitions.Homepage - Get Quote button clicked
+20:35:21.742 [main] INFO  stepDefinitions.Homepage - DOB is entered
+20:35:24.908 [main] INFO  stepDefinitions.Homepage - Sex is selected
+20:35:25.047 [main] INFO  stepDefinitions.Homepage - Smoke option is selected
+20:35:25.187 [main] INFO  stepDefinitions.Homepage - Province is selected

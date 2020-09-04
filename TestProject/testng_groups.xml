@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestNG">
+	<groups>
+		<run>
+		<include name = "logout"/>
+		</run>
+	</groups>
+  
+  <test  name="Groups">
+    <classes>
+    
+      <class name="testNG_Practise.basic"/>
+      <class name="testNG_Practise.CNS_Broker"/>
+      <class name="testNG_Practise.SME_Broker"/>
+      <class name="testNG_Practise.HUB_Broker"/>
+      <class name="testNG_Practise.SME_UW"/>
+      <class name="testNG_Practise.CNS_UW"/>
+      <class name="testNG_Practise.HUB_UW"/>
+    </classes>
+  </test>   
+</suite> 

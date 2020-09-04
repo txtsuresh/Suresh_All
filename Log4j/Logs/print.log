@@ -1,0 +1,8 @@
+16:24:30.135 [main] ERROR basic_logs.Test1 - Test1 Error displayed
+16:24:30.137 [main] FATAL basic_logs.Test1 - Test1 fatal error
+21:45:13.015 [main] DEBUG basic_logs.Test2 - Debug error
+21:45:13.017 [main] ERROR basic_logs.Test2 - Error displayed
+21:45:13.017 [main] INFO  basic_logs.Test2 - Info displayed
+21:45:13.017 [main] FATAL basic_logs.Test2 - fatal error
+22:04:26.845 [main] DEBUG basic_logs.Practise_logs - Chrome is launched
+22:04:28.179 [main] INFO  basic_logs.Practise_logs - Google is displayed

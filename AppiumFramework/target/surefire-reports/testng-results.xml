@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="250092" started-at="2020-08-16T20:15:29 EDT" finished-at="2020-08-16T20:19:39 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="250092" started-at="2020-08-16T20:15:29 EDT" finished-at="2020-08-16T20:19:39 EDT">
+      <class name="AppiumFW.NativeApp">
+        <test-method status="PASS" signature="killallnodes()[pri:0, instance:AppiumFW.NativeApp@49c386c8]" name="killallnodes" is-config="true" duration-ms="3048" started-at="2020-08-16T20:15:29 EDT" finished-at="2020-08-16T20:15:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killallnodes -->
+        <test-method status="PASS" signature="nativeapptesting(java.lang.String)[pri:0, instance:AppiumFW.NativeApp@49c386c8]" name="nativeapptesting" duration-ms="137324" started-at="2020-08-16T20:15:32 EDT" data-provider="getName" finished-at="2020-08-16T20:17:49 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeapptesting -->
+        <test-method status="PASS" signature="nativeapptesting(java.lang.String)[pri:0, instance:AppiumFW.NativeApp@49c386c8]" name="nativeapptesting" duration-ms="109606" started-at="2020-08-16T20:17:49 EDT" data-provider="getName" finished-at="2020-08-16T20:19:39 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeapptesting -->
+      </class> <!-- AppiumFW.NativeApp -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
