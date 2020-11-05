@@ -1,0 +1,269 @@
+2020-11-04 15:50:36,687 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 15:50:36,741 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="fb03ab7d29e3de38242e31fd44986ca7", element="bf0b1088-1b5d-4e1e-93f8-973654d075ed")>, <selenium.webdriver.remote.webelement.WebElement (session="fb03ab7d29e3de38242e31fd44986ca7", element="48012e90-ad93-4646-b3f9-8a666f5f6ea0")>, <selenium.webdriver.remote.webelement.WebElement (session="fb03ab7d29e3de38242e31fd44986ca7", element="3f9f97cd-5444-46e5-a105-361bec9a63cb")>, <selenium.webdriver.remote.webelement.WebElement (session="fb03ab7d29e3de38242e31fd44986ca7", element="85c7dbbd-edf3-4146-a360-5e969896874e")>]
+2020-11-04 15:50:37,499 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 15:50:37,998 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 15:53:13,404 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 15:53:13,449 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="fd5617773c13d77c8bd787be1d15c906", element="637e4b60-013d-4163-a0a4-30661ee694b1")>, <selenium.webdriver.remote.webelement.WebElement (session="fd5617773c13d77c8bd787be1d15c906", element="d94aa0bc-ce7c-4df8-be32-ee668f01f24e")>, <selenium.webdriver.remote.webelement.WebElement (session="fd5617773c13d77c8bd787be1d15c906", element="d1daeffe-53c2-4809-aa22-a6d35905b2ec")>, <selenium.webdriver.remote.webelement.WebElement (session="fd5617773c13d77c8bd787be1d15c906", element="32220660-ca33-4c80-b665-a62fbd1560e7")>]
+2020-11-04 15:53:14,319 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 15:53:14,534 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 15:59:46,274 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 15:59:46,331 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="6b4d9e92bd99c9f369d43fe48e279347", element="bbc56890-fe4d-4efd-9ac1-c7f433d7b63c")>, <selenium.webdriver.remote.webelement.WebElement (session="6b4d9e92bd99c9f369d43fe48e279347", element="736ea386-5152-4d4e-a291-98174d4d1cef")>, <selenium.webdriver.remote.webelement.WebElement (session="6b4d9e92bd99c9f369d43fe48e279347", element="9deee153-9337-46a5-bdce-b65bc59c0e52")>, <selenium.webdriver.remote.webelement.WebElement (session="6b4d9e92bd99c9f369d43fe48e279347", element="53884db9-443e-4e24-9aaa-dde8a1f4e595")>]
+2020-11-04 15:59:46,374 :INFO :test_e2eapp :iphone X
+2020-11-04 15:59:46,428 :INFO :test_e2eapp :iphone X
+2020-11-04 15:59:46,467 :INFO :test_e2eapp :iphone X
+2020-11-04 15:59:46,502 :INFO :test_e2eapp :iphone X
+2020-11-04 15:59:49,112 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 15:59:49,463 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 16:02:10,763 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 16:02:10,782 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="c5e54515bb90ff3d617abc8bdc4cadc9", element="5ecbefc1-a4f9-454e-b5d9-dffd23796b84")>, <selenium.webdriver.remote.webelement.WebElement (session="c5e54515bb90ff3d617abc8bdc4cadc9", element="e06594ee-c1f3-465d-8a06-e921478d140e")>, <selenium.webdriver.remote.webelement.WebElement (session="c5e54515bb90ff3d617abc8bdc4cadc9", element="938f1af7-c69d-4a2d-8c8c-746a3bd61d11")>, <selenium.webdriver.remote.webelement.WebElement (session="c5e54515bb90ff3d617abc8bdc4cadc9", element="ddf75b34-3bb2-4077-be9d-e081fd3aab39")>]
+2020-11-04 16:02:10,844 :INFO :test_e2eapp :iphone X
+2020-11-04 16:02:10,939 :INFO :test_e2eapp :iphone X
+2020-11-04 16:02:11,032 :INFO :test_e2eapp :iphone X
+2020-11-04 16:02:11,124 :INFO :test_e2eapp :iphone X
+2020-11-04 16:02:11,592 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 16:02:11,704 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 16:03:21,083 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 16:03:21,105 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="2a0546aaba67e48448657258e12cdb52", element="d206ae58-61e2-4697-b532-2d36d6975bf9")>, <selenium.webdriver.remote.webelement.WebElement (session="2a0546aaba67e48448657258e12cdb52", element="29c3ed3b-edd6-4a4b-ad1a-9ffd6f2e66d8")>, <selenium.webdriver.remote.webelement.WebElement (session="2a0546aaba67e48448657258e12cdb52", element="fa1bdeca-3620-4fce-946c-79b99e5d0d96")>, <selenium.webdriver.remote.webelement.WebElement (session="2a0546aaba67e48448657258e12cdb52", element="63200de6-d3e1-4bb7-bd7b-90a3bf14b73f")>]
+2020-11-04 16:03:21,171 :INFO :test_e2eapp :iphone X
+2020-11-04 16:03:21,240 :INFO :test_e2eapp :iphone X
+2020-11-04 16:03:21,334 :INFO :test_e2eapp :iphone X
+2020-11-04 16:03:21,443 :INFO :test_e2eapp :iphone X
+2020-11-04 16:03:21,904 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 16:03:21,904 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 16:06:32,288 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 16:06:32,304 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="fffe3677fb7341a154160dbc0dbbb32f", element="cb878a96-f4bc-4c7f-8448-a3653c3e15e1")>, <selenium.webdriver.remote.webelement.WebElement (session="fffe3677fb7341a154160dbc0dbbb32f", element="4d8b75d1-8f49-4a63-a785-48a3bc2b5f9e")>, <selenium.webdriver.remote.webelement.WebElement (session="fffe3677fb7341a154160dbc0dbbb32f", element="eb638d52-b189-4343-aafd-cbc492e62053")>, <selenium.webdriver.remote.webelement.WebElement (session="fffe3677fb7341a154160dbc0dbbb32f", element="fb7f13f4-c77d-4f28-bada-f49be96aa719")>]
+2020-11-04 16:06:32,337 :INFO :test_e2eapp :iphone X
+2020-11-04 16:06:32,388 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 16:06:32,460 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 16:06:32,530 :INFO :test_e2eapp :Blackberry
+2020-11-04 16:06:32,989 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 16:06:32,989 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 16:09:52,753 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 16:09:52,770 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="84ef5cc40e47e27180201258f3602c8b", element="e52b3702-772c-4221-a8c2-7dc5e43fb4e7")>, <selenium.webdriver.remote.webelement.WebElement (session="84ef5cc40e47e27180201258f3602c8b", element="99f3375b-bfb0-474b-a1aa-b3fe56b1887b")>, <selenium.webdriver.remote.webelement.WebElement (session="84ef5cc40e47e27180201258f3602c8b", element="4c5af1df-eccf-40d5-b1cf-b3708a804084")>, <selenium.webdriver.remote.webelement.WebElement (session="84ef5cc40e47e27180201258f3602c8b", element="4c9be110-437b-4320-aa21-0439fe436c3a")>]
+2020-11-04 16:13:53,931 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 16:13:53,954 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="1cb22092762a1ac7f55a8829e4311789", element="f8ddb3c2-1ee9-42f9-ad14-724b0c860bad")>, <selenium.webdriver.remote.webelement.WebElement (session="1cb22092762a1ac7f55a8829e4311789", element="a58a27ce-b19a-4644-98b5-6e9f2d2fa09d")>, <selenium.webdriver.remote.webelement.WebElement (session="1cb22092762a1ac7f55a8829e4311789", element="8682b335-3074-4558-8520-18181ce25c2f")>, <selenium.webdriver.remote.webelement.WebElement (session="1cb22092762a1ac7f55a8829e4311789", element="bba57884-3687-41a4-88dc-20bb091afd63")>]
+2020-11-04 16:14:10,478 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 16:14:10,496 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="31efa19502119798c20b1a6740873a4c", element="e7827d39-c912-4de4-824c-c4641442af73")>, <selenium.webdriver.remote.webelement.WebElement (session="31efa19502119798c20b1a6740873a4c", element="830ad999-76bd-40b5-b745-cd9cc67101ae")>, <selenium.webdriver.remote.webelement.WebElement (session="31efa19502119798c20b1a6740873a4c", element="2ee84ed0-9361-46cc-81fc-3374f37f947c")>, <selenium.webdriver.remote.webelement.WebElement (session="31efa19502119798c20b1a6740873a4c", element="060d5363-450c-40ff-ac94-dea0566b08c7")>]
+2020-11-04 16:15:56,833 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 16:20:47,829 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 16:20:47,843 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="f6b12b9be2118e3a5aaf063de054777a", element="07047032-be10-49d0-a429-596af5e65e26")>, <selenium.webdriver.remote.webelement.WebElement (session="f6b12b9be2118e3a5aaf063de054777a", element="f9ef5830-78fe-4159-8e72-cd184e4880d6")>, <selenium.webdriver.remote.webelement.WebElement (session="f6b12b9be2118e3a5aaf063de054777a", element="ea90f2f7-074a-4928-a4d5-9ca8ffe8dca7")>, <selenium.webdriver.remote.webelement.WebElement (session="f6b12b9be2118e3a5aaf063de054777a", element="430fa573-c333-44ff-8279-d3af1e7774f8")>]
+2020-11-04 16:22:26,767 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 16:22:26,791 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="4db8f3512e31ddb574a465bee6cd6966", element="f1d6f9c4-b345-4855-8184-35e90918158d")>, <selenium.webdriver.remote.webelement.WebElement (session="4db8f3512e31ddb574a465bee6cd6966", element="cd94739a-d378-498d-8ebf-12f3a464075e")>, <selenium.webdriver.remote.webelement.WebElement (session="4db8f3512e31ddb574a465bee6cd6966", element="877c4d0f-e15e-4731-97ef-eda0011db387")>, <selenium.webdriver.remote.webelement.WebElement (session="4db8f3512e31ddb574a465bee6cd6966", element="f0c818d3-ec92-4d46-b031-03003087f949")>]
+2020-11-04 16:24:04,983 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 16:24:05,007 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="ea81916a5d2e9b6b8293c0e255075ffc", element="c3469f42-c0ff-49d9-a118-53f725f9870c")>, <selenium.webdriver.remote.webelement.WebElement (session="ea81916a5d2e9b6b8293c0e255075ffc", element="42f555a3-a5ba-46c8-8dca-b6de2c3c7521")>, <selenium.webdriver.remote.webelement.WebElement (session="ea81916a5d2e9b6b8293c0e255075ffc", element="0bd546d1-17d9-4c2c-b475-513d8d93e6b1")>, <selenium.webdriver.remote.webelement.WebElement (session="ea81916a5d2e9b6b8293c0e255075ffc", element="411e34d0-8231-47fc-9ec4-c55a797a1796")>]
+2020-11-04 16:24:05,045 :INFO :test_e2eapp :iphone X
+2020-11-04 16:25:18,735 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 16:25:18,754 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="2a65884492fae5052d7677289e8701d7", element="7e5b7212-b896-4538-a075-1ff987b14e9c")>, <selenium.webdriver.remote.webelement.WebElement (session="2a65884492fae5052d7677289e8701d7", element="6db32740-4f09-401c-aff8-5f98279201be")>, <selenium.webdriver.remote.webelement.WebElement (session="2a65884492fae5052d7677289e8701d7", element="63b282e2-77cb-455e-91d7-e78b320c018b")>, <selenium.webdriver.remote.webelement.WebElement (session="2a65884492fae5052d7677289e8701d7", element="7a8978fd-258c-460f-9026-17195330700c")>]
+2020-11-04 16:25:18,788 :INFO :test_e2eapp :iphone X
+2020-11-04 16:25:18,819 :INFO :test_e2eapp :iphone X
+2020-11-04 16:25:18,861 :INFO :test_e2eapp :iphone X
+2020-11-04 16:25:18,903 :INFO :test_e2eapp :iphone X
+2020-11-04 16:25:19,414 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 16:25:19,513 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 16:27:21,023 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 16:27:21,045 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="27890938ff0d895276b71ccbfc5839bc", element="43c440e5-f9f8-4e19-84fe-5473a24384c9")>, <selenium.webdriver.remote.webelement.WebElement (session="27890938ff0d895276b71ccbfc5839bc", element="eb14dde3-e6c0-48fc-8a0e-ac370a055c54")>, <selenium.webdriver.remote.webelement.WebElement (session="27890938ff0d895276b71ccbfc5839bc", element="559d7b60-2ab3-4940-8a4e-6a01c799299e")>, <selenium.webdriver.remote.webelement.WebElement (session="27890938ff0d895276b71ccbfc5839bc", element="2f9dc2d0-84ae-44cc-ac48-47754c70c41c")>]
+2020-11-04 16:28:03,417 :INFO :test_e2eapp :iphone X
+2020-11-04 16:28:18,959 :INFO :test_e2eapp :iphone X
+2020-11-04 16:28:23,659 :INFO :test_e2eapp :iphone X
+2020-11-04 16:28:27,229 :INFO :test_e2eapp :iphone X
+2020-11-04 16:30:28,611 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 16:30:28,633 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="e445b9de5c39dd1064b085a87bbd13e8", element="effa6fc5-22ff-4c18-9147-9694fa13e0fc")>, <selenium.webdriver.remote.webelement.WebElement (session="e445b9de5c39dd1064b085a87bbd13e8", element="88697242-bef4-4e17-8745-d087f6fead2d")>, <selenium.webdriver.remote.webelement.WebElement (session="e445b9de5c39dd1064b085a87bbd13e8", element="07288d1c-0206-4179-807c-970b301ef08e")>, <selenium.webdriver.remote.webelement.WebElement (session="e445b9de5c39dd1064b085a87bbd13e8", element="f27a421c-b22b-4992-87be-8d0894890f96")>]
+2020-11-04 16:30:32,373 :INFO :test_e2eapp :iphone X
+2020-11-04 16:34:57,154 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 16:34:57,171 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="44393d22db470f86224c6e012d0bbea4", element="2dee91a4-fc3f-4607-a029-bec9f9eb0584")>, <selenium.webdriver.remote.webelement.WebElement (session="44393d22db470f86224c6e012d0bbea4", element="d5c911d0-892d-4827-a695-b459b07d561a")>, <selenium.webdriver.remote.webelement.WebElement (session="44393d22db470f86224c6e012d0bbea4", element="b625c37b-89ee-458d-97b3-7911dabbf907")>, <selenium.webdriver.remote.webelement.WebElement (session="44393d22db470f86224c6e012d0bbea4", element="67fa1e85-4aee-45c0-b02f-e17e19b9cf85")>]
+2020-11-04 16:40:22,716 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 16:40:22,737 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="0939c3eb73fd6388e42a57f9ffbe7be8", element="b12aa3a4-eb68-4db2-a352-96b42018d9e3")>, <selenium.webdriver.remote.webelement.WebElement (session="0939c3eb73fd6388e42a57f9ffbe7be8", element="1dad1b3b-bb18-4f70-838c-162eda7d0bc7")>, <selenium.webdriver.remote.webelement.WebElement (session="0939c3eb73fd6388e42a57f9ffbe7be8", element="3ab8c908-bd9b-4b6b-8fa5-0bfca3b359d0")>, <selenium.webdriver.remote.webelement.WebElement (session="0939c3eb73fd6388e42a57f9ffbe7be8", element="156dc14f-cd6e-4208-afb2-2982d3e13916")>]
+2020-11-04 16:40:46,372 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 16:40:46,387 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="e042f4d9931939f555d9f8f7429d6b83", element="d299218a-dfaf-4d6d-8f7b-456c47186871")>, <selenium.webdriver.remote.webelement.WebElement (session="e042f4d9931939f555d9f8f7429d6b83", element="902bafac-001b-4e34-8e94-f0c5c34e7ea0")>, <selenium.webdriver.remote.webelement.WebElement (session="e042f4d9931939f555d9f8f7429d6b83", element="4862f931-2db4-4864-8b93-9fc42e858511")>, <selenium.webdriver.remote.webelement.WebElement (session="e042f4d9931939f555d9f8f7429d6b83", element="6d6a31ae-a91f-4b6b-958f-375c91f4356b")>]
+2020-11-04 16:41:08,195 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 16:41:08,214 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="73aee8a0fee4d98eb24408cb5d727747", element="f67d0ff4-480c-4acb-9ba8-03db62a4224a")>, <selenium.webdriver.remote.webelement.WebElement (session="73aee8a0fee4d98eb24408cb5d727747", element="c64dbd8a-16f8-4e12-a581-250583b4a4a5")>, <selenium.webdriver.remote.webelement.WebElement (session="73aee8a0fee4d98eb24408cb5d727747", element="f5f17822-0da4-4589-a474-4cdf0901588c")>, <selenium.webdriver.remote.webelement.WebElement (session="73aee8a0fee4d98eb24408cb5d727747", element="60a4d1cf-4a8d-4e8e-954c-77602b3cdb19")>]
+2020-11-04 16:42:34,741 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 16:42:34,760 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="0c411c7fa2fdce27c01dd89d5a6f0a19", element="cf72c63e-c686-47f3-b77d-af5ae3667c58")>, <selenium.webdriver.remote.webelement.WebElement (session="0c411c7fa2fdce27c01dd89d5a6f0a19", element="aed6aa21-ceee-4d92-8967-7b9084029919")>, <selenium.webdriver.remote.webelement.WebElement (session="0c411c7fa2fdce27c01dd89d5a6f0a19", element="bd7ebb0f-6bc2-4bbb-a5b2-6e4c29244457")>, <selenium.webdriver.remote.webelement.WebElement (session="0c411c7fa2fdce27c01dd89d5a6f0a19", element="a6aab7d1-4169-4f2b-937b-a751a083e160")>]
+2020-11-04 16:42:37,736 :INFO :test_e2eapp :iphone X
+2020-11-04 16:42:42,201 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 16:42:52,864 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 16:42:55,545 :INFO :test_e2eapp :Blackberry
+2020-11-04 16:43:13,953 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 16:43:14,664 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 16:48:40,199 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 16:48:40,239 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="a81cbcb46acc982f58062f949fcad701", element="1ffb33f1-92d6-47bd-acbc-5ccd46810836")>, <selenium.webdriver.remote.webelement.WebElement (session="a81cbcb46acc982f58062f949fcad701", element="154c62a1-5e6e-4feb-8447-922bfe763963")>, <selenium.webdriver.remote.webelement.WebElement (session="a81cbcb46acc982f58062f949fcad701", element="b1c95bd3-2cd1-4bd6-b9eb-9f389c3807e6")>, <selenium.webdriver.remote.webelement.WebElement (session="a81cbcb46acc982f58062f949fcad701", element="9cdc0d70-1970-4cf3-a3f3-6caf527f8040")>]
+2020-11-04 16:48:40,288 :INFO :test_e2eapp :iphone X
+2020-11-04 16:48:40,348 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 16:48:40,408 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 16:48:40,463 :INFO :test_e2eapp :Blackberry
+2020-11-04 16:48:41,005 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 16:48:41,143 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 17:21:54,855 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 17:21:54,899 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="70cb627da255e109941c7b2ed6e6232e", element="02c60eca-7d24-4f9f-9d4b-4dbf08516023")>, <selenium.webdriver.remote.webelement.WebElement (session="70cb627da255e109941c7b2ed6e6232e", element="b5a68255-e744-4166-aa01-d6d3b854e1e4")>, <selenium.webdriver.remote.webelement.WebElement (session="70cb627da255e109941c7b2ed6e6232e", element="4893c095-5272-48dd-8ffa-6933a12d3fd6")>, <selenium.webdriver.remote.webelement.WebElement (session="70cb627da255e109941c7b2ed6e6232e", element="bb6f9c7c-3175-48ee-96ba-b1caea410486")>]
+2020-11-04 17:21:54,936 :INFO :test_e2eapp :iphone X
+2020-11-04 17:21:54,972 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 17:21:54,999 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 17:21:55,035 :INFO :test_e2eapp :Blackberry
+2020-11-04 17:21:55,599 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 17:21:55,763 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 17:26:51,877 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 17:26:51,894 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="a8caa687155149beaeed17344d3d93d4", element="0c054440-678d-476a-a65f-992b4316b918")>, <selenium.webdriver.remote.webelement.WebElement (session="a8caa687155149beaeed17344d3d93d4", element="0171c588-9f04-4399-ad26-5edc31352bd8")>, <selenium.webdriver.remote.webelement.WebElement (session="a8caa687155149beaeed17344d3d93d4", element="57564a48-9b08-4747-a4b5-b7b7635a55b0")>, <selenium.webdriver.remote.webelement.WebElement (session="a8caa687155149beaeed17344d3d93d4", element="7819be1e-1179-4300-9a71-7d5c5a8c9a1f")>]
+2020-11-04 17:26:51,919 :INFO :test_e2eapp :iphone X
+2020-11-04 17:26:51,953 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 17:26:51,989 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 17:26:52,012 :INFO :test_e2eapp :Blackberry
+2020-11-04 17:26:52,564 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 17:26:52,654 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 17:28:51,193 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 17:28:51,207 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="410ebe5dec7e2b641c7e492773fe6715", element="ec6586f2-d935-4892-be4a-f9e9eea6e59a")>, <selenium.webdriver.remote.webelement.WebElement (session="410ebe5dec7e2b641c7e492773fe6715", element="4eb1caf0-a6d7-4d6e-ab3c-420191d62c32")>, <selenium.webdriver.remote.webelement.WebElement (session="410ebe5dec7e2b641c7e492773fe6715", element="a7dc0d66-bafa-44a3-8b24-c95c28cfdbe9")>, <selenium.webdriver.remote.webelement.WebElement (session="410ebe5dec7e2b641c7e492773fe6715", element="64f52936-7b8e-4682-89e0-af7c53dc6a3c")>]
+2020-11-04 17:28:51,220 :INFO :test_e2eapp :iphone X
+2020-11-04 17:28:51,242 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 17:28:51,261 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 17:28:51,282 :INFO :test_e2eapp :Blackberry
+2020-11-04 17:28:51,775 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 17:28:51,886 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 17:29:19,442 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 17:29:19,463 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="176f96459f3e01237637326a937c620a", element="53217100-c718-4631-9776-f29e2f7d06c5")>, <selenium.webdriver.remote.webelement.WebElement (session="176f96459f3e01237637326a937c620a", element="16e60389-5354-4593-a120-98e118282994")>, <selenium.webdriver.remote.webelement.WebElement (session="176f96459f3e01237637326a937c620a", element="f318f461-134d-4172-be76-8f597c0eedce")>, <selenium.webdriver.remote.webelement.WebElement (session="176f96459f3e01237637326a937c620a", element="157f760c-611d-4b81-b580-9fffc19ff063")>]
+2020-11-04 17:29:19,481 :INFO :test_e2eapp :iphone X
+2020-11-04 17:29:19,515 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 17:29:19,554 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 17:29:19,590 :INFO :test_e2eapp :Blackberry
+2020-11-04 17:29:20,145 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 17:29:20,277 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 17:32:55,305 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 17:32:55,352 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="ab97a05a127476c6013f6baf54c71da9", element="370257a3-b712-43dd-a34d-87ad9004cd58")>, <selenium.webdriver.remote.webelement.WebElement (session="ab97a05a127476c6013f6baf54c71da9", element="6ad46f0d-dc84-4ca8-9c86-4ada864cacf1")>, <selenium.webdriver.remote.webelement.WebElement (session="ab97a05a127476c6013f6baf54c71da9", element="bc705765-800a-45ee-8c5a-88c86b8bf9f0")>, <selenium.webdriver.remote.webelement.WebElement (session="ab97a05a127476c6013f6baf54c71da9", element="b212c95e-bc33-4e8b-bedf-87fa755640ee")>]
+2020-11-04 17:32:55,398 :INFO :test_e2eapp :iphone X
+2020-11-04 17:32:55,462 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 17:32:55,503 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 17:32:55,546 :INFO :test_e2eapp :Blackberry
+2020-11-04 17:32:56,247 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 17:32:56,404 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 17:33:52,010 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 17:33:52,059 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="23dee2676c25831c23f05b1c2addcb1f", element="0ed80360-ab47-4465-9099-52160c33f859")>, <selenium.webdriver.remote.webelement.WebElement (session="23dee2676c25831c23f05b1c2addcb1f", element="c3ee3b07-d016-4440-b28a-f9ba30180274")>, <selenium.webdriver.remote.webelement.WebElement (session="23dee2676c25831c23f05b1c2addcb1f", element="f139b84b-3d88-4693-859a-efbe141542e9")>, <selenium.webdriver.remote.webelement.WebElement (session="23dee2676c25831c23f05b1c2addcb1f", element="d3d3b385-f081-419c-849c-80241861fc52")>]
+2020-11-04 17:33:52,090 :INFO :test_e2eapp :iphone X
+2020-11-04 17:33:52,131 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 17:33:52,172 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 17:33:52,213 :INFO :test_e2eapp :Blackberry
+2020-11-04 17:33:52,946 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 17:33:53,076 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 17:50:23,546 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 17:50:23,561 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="bdba5b4346f7d76a6bd3f7b94ca204a7", element="f19bcebe-84bb-4b1b-bf72-8380cec4791a")>, <selenium.webdriver.remote.webelement.WebElement (session="bdba5b4346f7d76a6bd3f7b94ca204a7", element="12056b4a-5be9-40e0-be80-daa74d4c592a")>, <selenium.webdriver.remote.webelement.WebElement (session="bdba5b4346f7d76a6bd3f7b94ca204a7", element="deaa0abe-fbee-479c-9a4e-ec6535d62ec9")>, <selenium.webdriver.remote.webelement.WebElement (session="bdba5b4346f7d76a6bd3f7b94ca204a7", element="943e0f90-6edd-4ccc-ae4d-5dbc34703aab")>]
+2020-11-04 17:50:23,576 :INFO :test_e2eapp :iphone X
+2020-11-04 17:50:23,596 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 17:50:23,616 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 17:50:23,645 :INFO :test_e2eapp :Blackberry
+2020-11-04 17:50:24,125 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 17:50:24,201 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 17:52:01,862 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 17:52:01,876 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="3d842ea23fb57d422324564f4c6c8712", element="4da9dc54-e271-4346-b92d-ac01dc7a109c")>, <selenium.webdriver.remote.webelement.WebElement (session="3d842ea23fb57d422324564f4c6c8712", element="6eeb277a-133a-46d8-a012-d9ad42d20fb9")>, <selenium.webdriver.remote.webelement.WebElement (session="3d842ea23fb57d422324564f4c6c8712", element="b9f9727d-68b5-461c-9749-4dc39ce209b6")>, <selenium.webdriver.remote.webelement.WebElement (session="3d842ea23fb57d422324564f4c6c8712", element="ec0f29b7-995d-45fe-8851-3873889f1240")>]
+2020-11-04 17:52:01,885 :INFO :test_e2eapp :iphone X
+2020-11-04 17:52:01,911 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 17:52:01,931 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 17:52:01,950 :INFO :test_e2eapp :Blackberry
+2020-11-04 17:52:02,471 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 17:52:02,580 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 17:56:27,606 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 17:56:27,631 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="1cb85824f6e07a62865d63ddb5ad7b50", element="dd8cbfdf-3a6a-4070-a240-936681ce3b16")>, <selenium.webdriver.remote.webelement.WebElement (session="1cb85824f6e07a62865d63ddb5ad7b50", element="c2686149-6841-48b8-b81b-dbb264e95c7b")>, <selenium.webdriver.remote.webelement.WebElement (session="1cb85824f6e07a62865d63ddb5ad7b50", element="084851f9-ce46-4c07-b06d-0a42c7dc153f")>, <selenium.webdriver.remote.webelement.WebElement (session="1cb85824f6e07a62865d63ddb5ad7b50", element="dd7d8baf-60c1-4e25-9a63-a970440ea654")>]
+2020-11-04 17:56:27,646 :INFO :test_e2eapp :iphone X
+2020-11-04 17:56:27,666 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 17:56:27,691 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 17:56:27,716 :INFO :test_e2eapp :Blackberry
+2020-11-04 17:56:28,188 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 17:56:28,315 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 17:59:35,425 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 17:59:35,446 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="efd36d1cc7b578e26d2c58ef8876183e", element="e7e2891d-cf26-4261-a5ba-23b2a56b2383")>, <selenium.webdriver.remote.webelement.WebElement (session="efd36d1cc7b578e26d2c58ef8876183e", element="b3b61398-6865-4b04-b7ee-89eb2f4f70a1")>, <selenium.webdriver.remote.webelement.WebElement (session="efd36d1cc7b578e26d2c58ef8876183e", element="7dca4f23-7a73-40d7-adad-4f8e8ea73458")>, <selenium.webdriver.remote.webelement.WebElement (session="efd36d1cc7b578e26d2c58ef8876183e", element="0a434946-a798-40a4-b6a1-d631a9816432")>]
+2020-11-04 17:59:35,456 :INFO :test_e2eapp :iphone X
+2020-11-04 17:59:35,481 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 17:59:35,506 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 17:59:35,526 :INFO :test_e2eapp :Blackberry
+2020-11-04 17:59:36,018 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 17:59:36,114 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 18:03:06,816 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 18:03:06,831 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="be442162c8330b249f2cfa21c6c80b6e", element="1b7b83dc-0d29-499a-8dd9-ca7b86c0e94b")>, <selenium.webdriver.remote.webelement.WebElement (session="be442162c8330b249f2cfa21c6c80b6e", element="d97c022a-01d6-44c3-8b4b-baf1bde9650a")>, <selenium.webdriver.remote.webelement.WebElement (session="be442162c8330b249f2cfa21c6c80b6e", element="e314efa1-f27f-4ede-a6cf-6d46b98c252c")>, <selenium.webdriver.remote.webelement.WebElement (session="be442162c8330b249f2cfa21c6c80b6e", element="507868d0-09ac-4d42-bcf7-bc3136481514")>]
+2020-11-04 18:03:06,851 :INFO :test_e2eapp :iphone X
+2020-11-04 18:03:06,871 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 18:03:06,886 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 18:03:06,906 :INFO :test_e2eapp :Blackberry
+2020-11-04 18:03:07,416 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 18:03:07,492 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 18:05:44,102 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 18:05:44,116 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="8e01631e08bd497a0b63023f483525d6", element="71030a4d-38d5-4dcd-9bbf-c03704b13f81")>, <selenium.webdriver.remote.webelement.WebElement (session="8e01631e08bd497a0b63023f483525d6", element="fc5bf1ed-0506-4c8e-9755-ae3099a5c245")>, <selenium.webdriver.remote.webelement.WebElement (session="8e01631e08bd497a0b63023f483525d6", element="0102750c-4b6a-4578-b532-236f3602d4e0")>, <selenium.webdriver.remote.webelement.WebElement (session="8e01631e08bd497a0b63023f483525d6", element="1ac994e4-abe9-480c-879f-a19265eba5b2")>]
+2020-11-04 18:05:44,126 :INFO :test_e2eapp :iphone X
+2020-11-04 18:05:44,156 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 18:05:44,176 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 18:05:44,196 :INFO :test_e2eapp :Blackberry
+2020-11-04 18:05:44,716 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 18:05:44,837 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 18:10:21,065 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 18:10:21,082 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="0d38ad57b02d8c9bba95a16206860f7d", element="e6d5dff0-67da-454d-bc79-932afa0b3bab")>, <selenium.webdriver.remote.webelement.WebElement (session="0d38ad57b02d8c9bba95a16206860f7d", element="0efed74a-924c-492a-9927-f084dc945c79")>, <selenium.webdriver.remote.webelement.WebElement (session="0d38ad57b02d8c9bba95a16206860f7d", element="872ed395-39a7-49fe-9995-ae7d72c083d3")>, <selenium.webdriver.remote.webelement.WebElement (session="0d38ad57b02d8c9bba95a16206860f7d", element="dedadfdf-03c7-412c-8a3c-1d86b0756b7b")>]
+2020-11-04 18:10:21,096 :INFO :test_e2eapp :iphone X
+2020-11-04 18:10:21,118 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 18:10:21,140 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 18:10:21,160 :INFO :test_e2eapp :Blackberry
+2020-11-04 18:10:21,656 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 18:10:21,840 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 18:11:37,616 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 18:11:37,636 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="77bc765099bde632a7001bf1e1ad1a56", element="e6074ed4-8a4b-4dfc-bc9d-439e7f1b1621")>, <selenium.webdriver.remote.webelement.WebElement (session="77bc765099bde632a7001bf1e1ad1a56", element="ca89f606-3f8a-4d3c-a02e-16f484f048d1")>, <selenium.webdriver.remote.webelement.WebElement (session="77bc765099bde632a7001bf1e1ad1a56", element="6d908a7a-2cd9-4485-8b2f-f39dbff8287f")>, <selenium.webdriver.remote.webelement.WebElement (session="77bc765099bde632a7001bf1e1ad1a56", element="90ef6e97-9acf-43ed-8011-38aff5eeec58")>]
+2020-11-04 18:11:37,646 :INFO :test_e2eapp :iphone X
+2020-11-04 18:11:37,671 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 18:11:37,696 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 18:11:37,716 :INFO :test_e2eapp :Blackberry
+2020-11-04 18:11:38,200 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 18:11:38,374 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 19:37:49,317 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 19:37:49,388 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="5c91c53b4088b19370c7bef970018b27", element="e48d869c-eb13-4256-b2d1-bbcf28dcd5f1")>, <selenium.webdriver.remote.webelement.WebElement (session="5c91c53b4088b19370c7bef970018b27", element="274b737a-2086-4a51-8670-c78102fc8953")>, <selenium.webdriver.remote.webelement.WebElement (session="5c91c53b4088b19370c7bef970018b27", element="44dd71a5-a3dc-41b4-8499-57abe2546171")>, <selenium.webdriver.remote.webelement.WebElement (session="5c91c53b4088b19370c7bef970018b27", element="6e27cb9b-32e7-40d0-8eb0-9fade5cf886c")>]
+2020-11-04 19:37:49,414 :INFO :test_e2eapp :iphone X
+2020-11-04 19:37:49,450 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 19:37:49,487 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 19:37:49,522 :INFO :test_e2eapp :Blackberry
+2020-11-04 19:37:50,465 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 19:37:50,762 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 19:45:36,857 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 19:46:27,398 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 19:47:21,634 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 19:47:57,367 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 19:50:47,635 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 19:50:47,652 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="f0b71580a8e5341e32bd6fc60f0325a2", element="7050fc70-93fe-462b-b73e-cb316f9a9332")>, <selenium.webdriver.remote.webelement.WebElement (session="f0b71580a8e5341e32bd6fc60f0325a2", element="5626f832-d1a6-41b8-8a87-089a67b9faf0")>, <selenium.webdriver.remote.webelement.WebElement (session="f0b71580a8e5341e32bd6fc60f0325a2", element="165b9951-f702-422f-b4bb-285bd42c32d6")>, <selenium.webdriver.remote.webelement.WebElement (session="f0b71580a8e5341e32bd6fc60f0325a2", element="663f1518-c1cb-4b74-bb68-6cf325835633")>]
+2020-11-04 19:50:47,669 :INFO :test_e2eapp :iphone X
+2020-11-04 19:50:47,695 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 19:50:47,726 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 19:50:47,766 :INFO :test_e2eapp :Blackberry
+2020-11-04 19:50:48,537 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 19:50:48,689 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 19:52:42,623 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 19:53:45,285 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 20:00:35,331 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 20:00:35,380 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="b0c523a2fcc5cc91bd6a89053e0a2dd9", element="856259a1-d611-4a88-9ab0-897572878014")>, <selenium.webdriver.remote.webelement.WebElement (session="b0c523a2fcc5cc91bd6a89053e0a2dd9", element="5abf7ffc-87f5-43a7-bfbd-5254a67c73d4")>, <selenium.webdriver.remote.webelement.WebElement (session="b0c523a2fcc5cc91bd6a89053e0a2dd9", element="fce8c61b-6f65-4d33-a3dd-17ea70e24cda")>, <selenium.webdriver.remote.webelement.WebElement (session="b0c523a2fcc5cc91bd6a89053e0a2dd9", element="3d04ee85-9c69-4f14-909b-0349d76cafe6")>]
+2020-11-04 20:00:35,402 :INFO :test_e2eapp :iphone X
+2020-11-04 20:00:35,430 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 20:00:35,455 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 20:00:35,491 :INFO :test_e2eapp :Blackberry
+2020-11-04 20:00:36,079 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 20:00:36,178 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 23:02:30,394 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 23:02:30,506 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="d230835ce0847a1134cd06978b495a95", element="75c176e9-0684-4791-ab3e-893d7779d5fb")>, <selenium.webdriver.remote.webelement.WebElement (session="d230835ce0847a1134cd06978b495a95", element="0663dc2f-1b20-466e-b4d3-a4b0da55c79e")>, <selenium.webdriver.remote.webelement.WebElement (session="d230835ce0847a1134cd06978b495a95", element="2543357e-f802-48ea-8c40-dd2ea0dea6b2")>, <selenium.webdriver.remote.webelement.WebElement (session="d230835ce0847a1134cd06978b495a95", element="ca686e47-8a80-4830-bb8d-254398905ae1")>]
+2020-11-04 23:02:30,543 :INFO :test_e2eapp :iphone X
+2020-11-04 23:02:30,571 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 23:02:30,605 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 23:02:30,656 :INFO :test_e2eapp :Blackberry
+2020-11-04 23:02:31,308 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 23:02:31,645 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 23:05:45,434 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 23:05:45,452 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="40bbaaf808f771aa0d875e26d6246e40", element="9dd5fc44-566d-413a-91eb-bfbd29afbdff")>, <selenium.webdriver.remote.webelement.WebElement (session="40bbaaf808f771aa0d875e26d6246e40", element="b37cccc2-b3e2-4c34-aff3-7786ba2e7878")>, <selenium.webdriver.remote.webelement.WebElement (session="40bbaaf808f771aa0d875e26d6246e40", element="7396987c-65ed-42fd-9f0c-d31d53ce58d8")>, <selenium.webdriver.remote.webelement.WebElement (session="40bbaaf808f771aa0d875e26d6246e40", element="01515466-20c5-45e5-8f36-8ee75e80e312")>]
+2020-11-04 23:05:45,472 :INFO :test_e2eapp :iphone X
+2020-11-04 23:05:45,506 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 23:05:45,631 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 23:05:45,660 :INFO :test_e2eapp :Blackberry
+2020-11-04 23:05:46,288 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 23:05:46,413 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 23:09:27,008 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 23:09:27,038 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="7f1da1481890add95fa5cb1636480ecd", element="1971c821-c8d6-4b51-8b2f-30a01e6bb838")>, <selenium.webdriver.remote.webelement.WebElement (session="7f1da1481890add95fa5cb1636480ecd", element="cd4aed19-6cf0-48e9-a232-52f0adc7ae73")>, <selenium.webdriver.remote.webelement.WebElement (session="7f1da1481890add95fa5cb1636480ecd", element="343b682e-1514-4b83-8010-21da8aad1ab6")>, <selenium.webdriver.remote.webelement.WebElement (session="7f1da1481890add95fa5cb1636480ecd", element="c194ceb0-87af-40b6-adb4-3444b1ccfc36")>]
+2020-11-04 23:09:27,062 :INFO :test_e2eapp :iphone X
+2020-11-04 23:09:27,099 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 23:09:27,134 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 23:09:27,169 :INFO :test_e2eapp :Blackberry
+2020-11-04 23:09:27,796 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 23:09:27,959 :INFO :test_e2eapp :Purchase page is displayed
+2020-11-04 23:10:44,230 :INFO :test_e2eapp :Home page is displayed
+2020-11-04 23:10:44,246 :INFO :test_e2eapp :[<selenium.webdriver.remote.webelement.WebElement (session="d94639f1784402c1ef5a7275fb887516", element="80f8accd-55d4-41fa-82e5-6d70dc8f911b")>, <selenium.webdriver.remote.webelement.WebElement (session="d94639f1784402c1ef5a7275fb887516", element="7e5695a6-b253-4a5e-bbe2-c01bfa48efb3")>, <selenium.webdriver.remote.webelement.WebElement (session="d94639f1784402c1ef5a7275fb887516", element="59a9b792-c73c-4391-80b2-61e8ef2f8ddd")>, <selenium.webdriver.remote.webelement.WebElement (session="d94639f1784402c1ef5a7275fb887516", element="925eaca5-aa69-4372-a013-a46286cb9bc4")>]
+2020-11-04 23:10:44,258 :INFO :test_e2eapp :iphone X
+2020-11-04 23:10:44,278 :INFO :test_e2eapp :Samsung Note 8
+2020-11-04 23:10:44,301 :INFO :test_e2eapp :Nokia Edge
+2020-11-04 23:10:44,324 :INFO :test_e2eapp :Blackberry
+2020-11-04 23:10:44,819 :INFO :test_e2eapp :CheckOut page is displayed
+2020-11-04 23:10:44,891 :INFO :test_e2eapp :Purchase page is displayed

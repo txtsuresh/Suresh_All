@@ -1,0 +1,16 @@
+2020-11-03 17:17:05,067 :DEBUG :pytestDemo.test_loggers :debug
+2020-11-03 17:17:05,067 :INFO :pytestDemo.test_loggers :info
+2020-11-03 17:17:05,068 :WARNING :pytestDemo.test_loggers :warning
+2020-11-03 17:17:05,068 :ERROR :pytestDemo.test_loggers :error
+2020-11-03 17:32:26,417 :WARNING :pytestDemo.test_loggers :warning
+2020-11-03 17:32:26,418 :ERROR :pytestDemo.test_loggers :error
+2020-11-03 17:33:10,771 :DEBUG :pytestDemo.test_loggers :debug
+2020-11-03 17:33:10,771 :INFO :pytestDemo.test_loggers :info
+2020-11-03 17:33:10,771 :WARNING :pytestDemo.test_loggers :warning
+2020-11-03 17:33:10,771 :ERROR :pytestDemo.test_loggers :error
+2020-11-03 17:40:16,384 :INFO :pytestDemo.test_loggers :['suresh', 'Viyaan']
+2020-11-03 17:40:16,384 :INFO :pytestDemo.test_loggers :suresh
+2020-11-03 17:48:09,481 :INFO :pytestDemo.test_loggers :['suresh', 'Viyaan']
+2020-11-03 17:48:09,482 :INFO :pytestDemo.test_loggers :suresh
+2020-11-03 17:49:10,127 :INFO :test_seconddata :['suresh', 'Viyaan']
+2020-11-03 17:49:10,127 :INFO :test_seconddata :suresh
